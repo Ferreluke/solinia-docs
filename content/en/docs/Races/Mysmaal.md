@@ -40,15 +40,13 @@ Mysmaal
 This is currently a playable race
 
 # Basic information
-Atop the Crimson Throne of Val`Elsir sits the everliving Vampire houses of Taon. Worshippers of Somnus and Deuaulus the great houses of this mysterious race have been in a civil war almost since their creation.
+Atop the Crimson Throne of Val'Elsir sits the everliving Vampire houses of Taon. Worshippers of Somnus and Deuaulus the great houses of this mysterious race have been in a civil war almost since their creation.
 
 # Origins
 
-Origins
-
 The Mysmaal hold their origins the history of Taon, they are unliving beings that have not yet passed into The Maw. It is rumoured it is due to their involvement with the deity Somnus that they became cursed. They perpetuate their race by turning others, in exception to royal blood, and have a sustained population in the shadows throughout history.
 
-In the Lost Age, the Mysmaal became the dominant force over all western races in Taon with the exception of the Oshira who controlled most of the East. The Oshira up to this point had failed all attempts to overtake the Sanguine Kingdom of Val`Elsir and enslave them and were more often used as a food source to the Mysmaalian Vampires than any threat
+In the Lost Age, the Mysmaal became the dominant force over all western races in Taon with the exception of the Oshira who controlled most of the East. The Oshira up to this point had failed all attempts to overtake the Sanguine Kingdom of Val'Elsir and enslave them and were more often used as a food source to the Mysmaalian Vampires than any threat
 
 The early Mysmaal were extremely dangerous, mysterious and extremely knowledgable in all forms of combat and magic and it is believed even Hiran Asura avoided them during the days of the Cataclysm. Mysmaal seemed to prefer nighttime and a rumour has sometimes stated they are unable to walk in the sun. This is incorrect however.
 
@@ -58,7 +56,7 @@ The name Mysmaal is believed to have it’s origins based on a tower named Mysma
 
 Sometime, many thousands of years ago, there was a civil war and some fled to the Eastern Continents to escape the war and build an empire of their own. The Mysmaal that remained were devastated – centuries of war thinned their numbers and most of the original houses were destroyed in feral combat all over the Western Hemisphere.
 
-The Creation of the Corrupt Vishim (Darkelves)
+## The Creation of the Corrupt Vishim (Darkelves)
 
 It is not clear exactly how or when but it is certain the Mysmaal captured and tortured several Vishim during a midnight raid on the city of Alaris. What followed was almost a decade of deformation and twisting of the Vishim prisoners in the persuit of creating an obedient mysmaalian slave – several of the Vishim died in the process but two were strong enough to survive and were bred, over many generations as servants, guardians and for even darker duties.
 
@@ -69,6 +67,8 @@ The Mysmaal nest became a bastion of darkness and power for the newly born race 
 # Culture
 
 Mysmaal are usually condescending, proud, haughty and arrogant. They are also a very honourable people, often choosing to die rather than break their word... But to get their word in the first place can be a stretch, and the definition of a "promise" by the Mysmaal may be a little loose. The Mysmaal prefer to be left alone, they are tricky and think themselves above other races in the Dominion, seeing them as tools to use in their games rather than allies. Of course, they wouldn't let them know that. They play by the rules, yes, but their rules... and will go by the letter of the law rather than the spirit of it. Laws are there for them to play with and further themselves. 
+
+Mysmaal are not unlike dark elves in the fact that they have many great houses consisting of lords, barons and counts. It is common for Mysmaal to intermarry between houses to produce pure offspring.
 
 # Biology and Appearance
 
