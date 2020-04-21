@@ -70,6 +70,10 @@ Mysmaal are usually condescending, proud, haughty and arrogant. They are also a 
 
 Mysmaal are not unlike dark elves in the fact that they have many great houses consisting of lords, barons and counts. It is common for Mysmaal to intermarry between houses to produce pure offspring.
 
+# The Gift/Curse
+
+Due to the nature of the Gift that was granted to the Mysmaal by Somnus, they are weak to Holy damage. This includes most spells that generally would work on undead, though the Mysmaal are not quite the same category and regain their intelligence and autonomy.
+
 # Biology and Appearance
 
 The Mysmaal are unliving beings; it is rumoured they are related to other races but now share the fate of immortal undeath. Their vampiric or cannibalistic tendencies cause the creation of more undead; beings that are killed by feeding will eventually rise from the grave to become another Mysmaal. As such, the appearence of the Mysmaal varies depending on their original race, as well as the amount of decomposition that has taken place before reanimation. 
