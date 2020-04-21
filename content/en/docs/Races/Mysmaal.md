@@ -44,7 +44,7 @@ Atop the Crimson Throne of Val'Elsir sits the everliving Vampire houses of Taon.
 
 # Origins
 
-The Mysmaal hold their origins the history of Taon, they are unliving beings that have not yet passed into The Maw. It is rumoured it is due to their involvement with the deity Somnus that they became cursed. They perpetuate their race by turning others, in exception to royal blood, and have a sustained population in the shadows throughout history.
+The Mysmaal hold their origins the history of Taon, they are unliving beings that have not yet passed into The Maw. It is rumoured it is due to their involvement with the deity Somnus that they became cursed. They perpetuate their race by turning others and interbreeding with other highbourne pure mysmaal. Through these acts they have a sustained population in the shadows throughout history.
 
 In the Lost Age, the Mysmaal became the dominant force over all western races in Taon with the exception of the Oshira who controlled most of the East. The Oshira up to this point had failed all attempts to overtake the Sanguine Kingdom of Val'Elsir and enslave them and were more often used as a food source to the Mysmaalian Vampires than any threat
 
