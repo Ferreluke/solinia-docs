@@ -29,6 +29,7 @@ Priests* may use /pray to call upon their chosen god(s) of worship on behalf of 
 A staff member may or may not respond to the prayer of the priest. Character standings with gods will affect the chance of revival as well as the cost of it.
 
 ***If you are brought back with a god call:***
+
 A cost* will be determined by the God(Staff) responding, and will be required to be paid upon revival. The price will be paid to the priest god, and not that of the character being revived.
 
 
