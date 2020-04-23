@@ -14,19 +14,27 @@ Note: You are expected to check this page often as it will change.
 (to be entered)
 
 **IN CHARACTER DEATH**
+
 Hence forth, In character deaths will be taken seriously.
 **Do not** agree to In character death unless you are prepared for the consequences of Revival. A Real life-time limit will be attached to an in character death. This time limit will be dependent on the Signaculum's Validity verse the revival spell used. After the Signaculum has expired, character resurrections must be approved by an Admin via Roleplay with an action following the /pray function.
 
-`Resurrection spells:`
-Spells may be used for as long as the signaculum is valid.
-`Resurrection after Signaculum expired [A God call]:`
+***Resurrection Spells***
+
+Spells may be used for as long as the signaculum is valid (7 hours).
+
+***Resurrection after Signaculum expired [A God call]:***
+
 Priests* may use /pray to call upon their chosen god(s) of worship on behalf of the deceased character.
+
 A staff member may or may not respond to the prayer of the priest. Character standings with gods will affect the chance of revival as well as the cost of it.
-`If you are brought back with a god call:`
+
+***If you are brought back with a god call:***
 A cost* will be determined by the God(Staff) responding, and will be required to be paid upon revival. The price will be paid to the priest god, and not that of the character being revived.
+
 
 > **PRIESTS:** The following classes are considered Priests and are able to pray
 > Cleric, Paladin, Shaman, Shadow-knight
+
 
 > **COSTS** The following are examples of costs of revival and are not limited to such examples
 > Level(s), Item(s)
