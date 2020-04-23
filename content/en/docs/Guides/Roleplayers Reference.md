@@ -11,7 +11,7 @@ Note: You are expected to check this page often as it will change.
 
 **Introduction**
 
-(to be entered)
+Please see this page for additional advice regarding roleplay that is not covered in our New Players Guide 
 
 **IN CHARACTER DEATH**
 
