@@ -46,15 +46,17 @@ This is currently a playable race
 
 The Anushi are catfolk from the Age of Ascendence who existed mainly in the southern deserts of Qylia. Due to their close proximity to the Caerthians, they were quickly conquered and enslaved.
 
-Prior to their subjugation the Anushi were known as desert traders, building grand bazaars and cities around the oasis of the world. The cities were generally run by a grand visier or king and they were known for worshipping a completely seperate pantheon that exists within the Spirit Realm.
+Prior to their subjugation, the Anushi were known as desert traders; building grand bazaars and cities around the oasis' of the world. The cities were generally run by a grand visier or king and they were known for worshipping a completely seperate pantheon that existed along side our own within the Spirit Realm.
 
-The race itself is exotic compared to most, generally having no clerics and instead looking to a council of shamans for their guidence and destiny, though due to the interactions with other races it is not uncommon to find priests and people of different races in anushi cities.
+The race itself is exotic compared to most, generally having no clerics and instead looking to a council of shamans for their guidance and destiny. However, due to the interactions with other races, it is not uncommon to find priests and people of different races within the culturally open anushi cities.
 
-The Anushi are proud, and sometimes hot tempered. They are brutal in combat but, due to their passion, can sometimes be led easily into traps of their own making. Despite this, the Anushis trade network has led to all manner of rogue guilds, for which the light fooded anushi suit well.
+The Anushi are proud, and sometimes hot tempered. They are brutal in combat but, due to their passion, can sometimes be led easily into traps of their own making. Despite this, the Anushis trade networks have led to all manner of rogue guilds, for which the light fooded anushi suit well.
 
 The last survivors of the Anushi of Qylia were able to successfully lead a guerilla campaign against the Caerthians with the aid of the Keladun and Aerindal. The Anushi owe a great debt to both of these races and have followed them across the world after the devestating battle of Eindel.
 
-Currently Tanqara on the island of Utra is recognised as the capitol of the new, free, anushi kingdom which they have found strong friendships with the Lidkim of the West
+Currently Tanqara on the island of Utra is recognised as the capitol of the new, free, anushi kingdom which has founded strong friendships with the Lidkim of the West. It is currently ruled by Crusader King Veran Shar who was responsible for its construction in the year 197084. King Veran led his people from the Meorei city of Ambreka in the east and settled in a ravin win the Slepeing Sands where has has been ruling ever since.
+
+Recently the Anushi have began to wage war with the Kenku of the Blackfeather Plains following the assassination of Prince Kaeden Shar.
 
 ## Skins
 
