@@ -23,3 +23,11 @@ Those gobelins have gone stolen redscar chief sword HAHAHA! think they fight wit
 # Kidnapper
 
 We hear rumour someone kidnapping people! Maybe even torture! You stay in ARRR with bouncer, Chief keep us all safe
+
+# Big boys of East
+
+We think they big boys are back, want to attack magic people in Avaris and take land! We ok for now, but we keep watch out just incase
+
+# What happen in blackveil
+
+We not sure but we hear commotion down in blackveil? Maybe somoene attack? We wait out see who win
