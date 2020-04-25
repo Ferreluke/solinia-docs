@@ -838,6 +838,22 @@ Timeline
             <p></p>
         </div>
     </div>
+   <div class="timelinecontainer right">
+        <div class="content">
+            <h2>1232 P-OE (196980 UT)</h2>
+            <h3></h3>
+            <p><small>The Anushi-Caerthian Slave Revolt</small></p>
+            <p></p>
+        </div>
+    </div>
+ <div class="timelinecontainer left">
+        <div class="content">
+            <h2>1233 P-OE (196981 UT)</h2>
+            <h3></h3>
+            <p><small>Caerthian Sympathisers lead the Anushi to the city of Morheim to escape of the Caerthian slavers. Led by a small band including the anushi known as Overseer Teris and the caerthian Rail N'Rsis</small></p>
+            <p></p>
+        </div>
+    </div>
      <div class="timelinecontainer right">
         <div class="content">
             <h2>1234 P-OE (196982 UT)</h2>
